@@ -1,6 +1,6 @@
 
 title: Bobby Ananta Dioriza
-url: 'http://webjeda.com'
+url: 'http://bobby.dioriza.com'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -19,7 +19,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 
 #sidebar links
 email: bobby@dioriza.com
-phone: +62 
+phone: +62
 website: bobby.dioriza.com #do not add http://
 linkedin: bobananta
 github: anfieldlad
